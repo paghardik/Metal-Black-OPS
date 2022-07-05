@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="image.jpeg">
+  <img src="image.png">
 </p>
 
 ## Description
