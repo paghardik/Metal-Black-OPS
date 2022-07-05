@@ -3,8 +3,7 @@ Metal Black OPS is a 2D mobile shooter centered around an army of mercenaries tr
 Choose your commando, purchase an arsenal of powerful guns and grenades then blow EVERYTHING up.
 
 ## Features
-- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
-– *5 worlds and 24 stages*
+– [5 worlds and 24 stages]
 – Over 25 enemies and 5 boss
 – In-game tutorial
 – Daily login reward
