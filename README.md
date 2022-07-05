@@ -4,7 +4,7 @@ Choose your commando, purchase an arsenal of powerful guns and grenades then blo
 
 ## Features
 - [Categories](#categories)
-– [5 worlds and 24 stages](#5 worlds and 24 stages)
+– [5 worlds and 24 stages](#)
 – Over 25 enemies and 5 boss
 – In-game tutorial
 – Daily login reward
