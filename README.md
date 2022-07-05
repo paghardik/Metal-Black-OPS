@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="400" src="assets/todoist-stat.png">
+  <img src="image.jpeg">
   <h3 align="center">🚧 Todoist Stats</h3>
   <p align="center">⚡️📌 Update your Todoist Stats ✅ </p>
 </p>
