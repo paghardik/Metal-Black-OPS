@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img width="400" src="assets/todoist-stat.png">
+  <h3 align="center">🚧 Todoist Stats</h3>
+  <p align="center">⚡️📌 Update your Todoist Stats ✅ </p>
+</p>
+
 ## Description
     Metal Black OPS is a 2D mobile shooter centered around an army of mercenaries trying to finish their mission to save the world, then go home and take a well-deserved nap.
     Choose your commando, purchase an arsenal of powerful guns and grenades then blow EVERYTHING up.
